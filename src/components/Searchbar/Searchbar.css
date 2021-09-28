@@ -1,0 +1,20 @@
+.Input{
+  font-weight: 200;
+  font-size: 20px;
+  outline: none;
+  border-radius: 2%;
+  border: 1px solid #ccc;
+  background-color: #FFF8DC;
+  font: inherit;
+  padding: 6px 10px;
+  width: 70%;
+  box-sizing: border-box;
+}
+.Select{
+  outline: none;
+   border: 1px solid #ccc;
+  background-color: #FFF8DC;
+  font: inherit;
+  padding: 6px 10px;
+  box-sizing: border-box;
+}
